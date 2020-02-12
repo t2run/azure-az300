@@ -14,11 +14,11 @@ have expert-level skills in at least one of those domains.
 
 Sl No | Topic |  Weightage
 ------------ | ------------- | -------------
-1 | [Deploy and configure infrastructure](#deploy-and-configure-infrastructure-(40-45%)) | 40-45%
-2 | [Implement workloads and security](#-mplement-workloads-and-security-(25-30%)) | 25-30%
-3 | [Create and deploy apps](#create-and-deploy-apps-(5-10%)) | 5-10%
-4 | [Implement authentication and secure data](#implement-authentication-and-secure-data-(5-10%)) | 5-10%
-5 | [Develop for the cloud and for Azure storage](#develop-for-the-cloud-and-for-Azure-storage-(15-20%)) | 15-20%
+1 | [Deploy and configure infrastructure](#deploy-and-configure-infrastructure-40-45) | 40-45%
+2 | [Implement workloads and security](#implement-workloads-and-security-25-30) | 25-30%
+3 | [Create and deploy apps](#create-and-deploy-apps-5-10) | 5-10%
+4 | [Implement authentication and secure data](#implement-authentication-and-secure-data-5-10) | 5-10%
+5 | [Develop for the cloud and for Azure storage](#develop-for-the-cloud-and-for-azure-storage-15-20) | 15-20%
 
 
 # Skills Measured
